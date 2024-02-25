@@ -27,7 +27,6 @@ Marker Color: The color of the marker represents the depth of the earthquake, wi
 Popups: Clicking on a marker will display a popup with information about the earthquake, including the location, magnitude, and depth.
 Libraries: Leaflet.js, D3.js
 
-## Acknowledgements
 
 ## Data Source
 
