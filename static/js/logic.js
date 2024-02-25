@@ -7,6 +7,7 @@ d3.json(queryUrl).then(function (data) {
   createFeatures(data.features);
 });
 
+
 function createFeatures(earthquakeData) {
   // Define a function that we want to run once for each feature in the features array.
   // Give each feature a popup that describes the place and time of the earthquake.
